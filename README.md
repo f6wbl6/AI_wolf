@@ -6,8 +6,6 @@ registered in 2018.6.17
 
 人狼知能ハッカソン（2018年6月15〜17日開催）にて作成したエージェント.
 
-（一応）準優勝しました.
-
 （ハッカソン参考URL）：http://aiwolf.org/archives/1761
 
 （結果参考URL）：http://aiwolf.org/archives/1916
